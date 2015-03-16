@@ -1,9 +1,5 @@
 Hello My name is kishan
 
-<<<<<<< HEAD
-zala satyarajsinh
-
-=======
 i have taken the pull-milan
 
 i have taken the pull-jeel
@@ -13,4 +9,9 @@ i have taken the pull- dashrath
 i have taken another pull - milan
 
 i've taken the pull - rutul
->>>>>>> 569c9d45064fca654b51677c9056442cef8446cf
+
+
+i've taken the pull - jeel.....
+
+
+i've taken the pull - bapu
