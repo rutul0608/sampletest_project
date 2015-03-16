@@ -12,6 +12,14 @@ i have taken another pull - milan
 
 i've taken the pull - rutul
 
+<<<<<<< HEAD
+
+i've taken the pull - jeel
+
+
+zala satyarajsingh
+
+=======
 i've taken the pull - jeel.....
 
 
@@ -20,9 +28,23 @@ i've taken the pull - arjun.....
 hhhhhhhhh
 hhhhh
 
+<<<<<<< HEAD
 
 arjun mehta
 
 
 
 
+=======
+<<<<<<< HEAD
+some text added by me -milan
+=======
+
+satyaraj singh
+
+arjun mehta
+
+
+
+>>>>>>> fdae716a754f9f676d127f01765bd50e6622336a
+>>>>>>> d1326092b37013b92724460743dc310bc8558134
