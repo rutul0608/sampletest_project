@@ -46,18 +46,17 @@ satyaraj singh
 arjun mehta
 
 
-<<<<<<< HEAD
+
 http://www.sysads.co.uk/2014/04/install-latest-eclipse-ide-ubuntu-14-04-13-10/
 
 
->>>>>>> fdae716a754f9f676d127f01765bd50e6622336a
->>>>>>> d1326092b37013b92724460743dc310bc8558134
+
 
 
 
 
 arjun mehta
-=======
+
 saloni Shah
 
 
@@ -72,15 +71,15 @@ helloooooooo
 
 I am writing in this file
 
->>>>>>> 595919daec0591b899fc0542d4838c8c15502735
 
 
 
 
 
 
-==============
+
 
 
 
 hiiiiiiiiiiiiiiiiiii
+Hello all Good morning!!!
