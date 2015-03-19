@@ -84,13 +84,13 @@ I am writing in this file
 hiiiiiiiiiiiiiiiiiii
 Hello all Good morning!!!
 
-17-03-2015 file edited - Milan
 
 
 
-<<<<<<< HEAD
+
+
 rutul has edited the file........ hi...
-=======
+
 
 same to you
 
@@ -112,4 +112,4 @@ from:Arjun Mehta
 
 I am adding this line..
 
->>>>>>> 73e392c2c3338815d8bd3d2673754b6812c7c687
+from rutul patel...
